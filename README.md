@@ -1,4 +1,4 @@
-# cloudflare-docker-proxy
+# cf-dp
 
 ![deploy](https://github.com/ciiiii/cloudflare-docker-proxy/actions/workflows/deploy.yaml/badge.svg)
 
